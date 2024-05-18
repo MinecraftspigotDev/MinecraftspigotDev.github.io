@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #4d4b47;
 }
 
 header {
     text-align: center;
     padding: 50px 0;
-    background-color: #007bff;
+    background-color: #ffbb00;
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ header {
 footer {
     text-align: center;
     padding: 20px 0;
-    background-color: #007bff;
+    background-color: #ffbb00;
     color: #fff;
 }
 .project img {
